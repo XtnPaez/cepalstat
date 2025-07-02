@@ -18,6 +18,14 @@ FRONTEND
 
 - Geoportal (MapLibre)
 
+CAMPUS
+
+- campusestadistica.cepal.org
+
+REPO
+
+- guia de implementacion de geonode marzo 2025 - cepal
+- 
 
 
 
