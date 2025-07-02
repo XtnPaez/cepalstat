@@ -16,7 +16,8 @@ BACKEND
 
 FRONTEND
 
-- Geoportal (MapLibre)
+- Geoportal (MapLibre) <- JS
+- echarts para hacer los graficos
 
 CAMPUS
 
@@ -25,6 +26,12 @@ CAMPUS
 REPO
 
 - guia de implementacion de geonode marzo 2025 - cepal
+
+### datosestadisticosindec.gob.ar
+
+git.cepal.org/geo
+
+
 - 
 
 
